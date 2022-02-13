@@ -1,0 +1,1 @@
+THis line is written in text file using StreamWriter class 
