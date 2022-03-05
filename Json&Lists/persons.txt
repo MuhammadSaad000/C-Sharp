@@ -1,0 +1,5 @@
+{"Name":"khan","Age":12,"RollNo":"1212"}
+{"Name":"ali","Age":24,"RollNo":"bsef19m034"}
+{"Name":"Shah","Age":12,"RollNo":"bsef19m004"}
+{"Name":"khan","Age":12,"RollNo":"1212"}
+{"Name":"ali","Age":24,"RollNo":"bsef19m034"}
