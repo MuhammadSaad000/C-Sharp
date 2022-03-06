@@ -1,7 +1,8 @@
 # C-Sharp
 
-![Logo](https://images.ctfassets.net/23aumh6u8s0i/1IKVNqiLhNURzZXp652sEu/4379cfba19f0e19873af6074d3017f70/csharp)
-
+<p>
+    <img src="https://images.ctfassets.net/23aumh6u8s0i/1IKVNqiLhNURzZXp652sEu/4379cfba19f0e19873af6074d3017f70/csharp" width="350" title="hover text">
+</p>
 
 This Repository covers the basics of C-Sharp Programming Language  describing the concepts of :
 - Input/Ouput, Conditional Statements, Data Types
