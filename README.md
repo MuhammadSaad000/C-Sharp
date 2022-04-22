@@ -13,3 +13,5 @@ This Repository covers the basics of C-Sharp Programming Language  describing th
 - Lists(Array Of Objects) in C#
 - Overriding ToString() method 
 - File Handling
+- Delegates 
+- Anonymous Functions and Lambda Functions
